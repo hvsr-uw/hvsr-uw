@@ -32,9 +32,15 @@ Header path: assets/header.svg
       alt="GitHub hvsr-uw"
     />
   </a>
+  <a href="https://github.com/Hvardhan2">
+    <img
+      src="https://img.shields.io/badge/previous%20github-Hvardhan2-ffffff?style=flat-square&logo=github&logoColor=0f172a&labelColor=f8fafc&color=64748b"
+      alt="Previous GitHub account Hvardhan2"
+    />
+  </a>
   <img
     src="https://img.shields.io/badge/UW--Madison-CS%20%2B%20Data%20Science-ffffff?style=flat-square&labelColor=f8fafc&color=b91c1c"
-    alt="UW-Madison CS + Data Science"
+    alt="UW-Madison Computer Science"
   />
 </p>
 
@@ -42,18 +48,19 @@ Header path: assets/header.svg
 
 ### What I Build
 
-I care about the engineering around intelligent systems: how data enters, how services validate it, how outputs are tested, and how failures become visible instead of hidden.
+I care about the engineering around intelligent systems. How data enters, how services validate it, how outputs are tested, and how failures become visible instead of hidden.
 
-This profile is intentionally simple. Project details live inside individual repositories. The pinned repos below show what I am currently building.
+Project details live inside individual repositories. The pinned repos below show what I am currently building. 
+
+You can also check out my previous GitHub account here: [Hvardhan2](https://github.com/Hvardhan2).
 
 ### Current Focus
 
 | Area | Details |
 | --- | --- |
-| focus | AI systems, backend infrastructure, data pipelines |
-| taste | reliable inputs, simple APIs, visible failures |
-| tools | Python, Java, C#, TypeScript, SQL, Docker, AWS |
-| learning | evaluation, observability, cloud-native systems |
+| focus | AI systems, Neural Interface infrastructure, Autonomous Driving  data pipelines |
+| Tools | Python, Java, C#, Rust, TypeScript, SQL, Docker, AWS |
+| learning | Evaluation, Observability, cloud-native systems |
 
 ### Tooling
 
@@ -72,5 +79,5 @@ This profile is intentionally simple. Project details live inside individual rep
 </p>
 
 <p align="center">
-  <samp>build small &middot; test clearly &middot; debug honestly</samp>
+  <samp>build carefully &middot; test clearly &middot; debug honestly</samp>
 </p>
